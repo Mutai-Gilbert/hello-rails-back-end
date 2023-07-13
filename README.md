@@ -98,7 +98,7 @@ Clone this repository to your desired folder:
 
 ### Hello-react-front-end
 
-- React App: (https://github.com/Mutai-Gilbert/hello-react-front-end/pull/1)
+  [React App](https://github.com/Mutai-Gilbert/hello-react-front-end/pull/1)
 
 ### Install
 
